@@ -1,0 +1,158 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 1993 >>
+stream
+BT
+/F1 10 Tf
+40 790 Td
+14 TL
+(==========================================================================) Tj T*
+(  TAX INVOICE / SAP VENDOR INVOICE \(MIRO / VBRK\)) Tj T*
+(==========================================================================) Tj T*
+(Document Number : INV-2026-900005        Document Date : 2026-09-06) Tj T*
+(Reference Order : 4500100005             Due Date      : 2026-10-06) Tj T*
+(SAP Client      : 100                    Company Code  : 1000 \(SG01\)) Tj T*
+(Currency        : SGD                    Page          : 1 of 3) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(SUPPLIER / VENDOR \(LIFNR: 0000100881\):) Tj T*
+(  Precision Microelectronics Asia Ltd) Tj T*
+(  Singapore, SG) Tj T*
+() Tj T*
+(SOLD-TO / BILL-TO CUSTOMER \(KUNNR: 0000204519\):) Tj T*
+(  Marina Bay Retail Operations Pte Ltd) Tj T*
+(  10 Bayfront Ave, Singapore 018956) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(POSNR  MATERIAL SKU     DESCRIPTION                        QTY   UNIT    NET \(SGD\)) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(0010   MAT-550192-SG    Stainless Steel Pneumatic Valve    7.0  EA        644.00) Tj T*
+(0020   MAT-109432-SG    Industrial PLC Controller Module   8.0  EA     10,000.00) Tj T*
+(0030   MAT-992011-SG    Thermal Management Cooling Fan U   9.0  EA      1,260.00) Tj T*
+(0040   MAT-550192-SG    Stainless Steel Pneumatic Valve    1.0  EA         92.00) Tj T*
+(0050   MAT-109432-SG    Industrial PLC Controller Module   2.0  EA      2,500.00) Tj T*
+(0060   MAT-992011-SG    Thermal Management Cooling Fan U   3.0  EA        420.00) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(                running subtotal carried to next page...   SGD    14,916.00) Tj T*
+(==========================================================================) Tj T*
+(Continued on Page 2...) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 1993 >>
+stream
+BT
+/F1 10 Tf
+40 790 Td
+14 TL
+(==========================================================================) Tj T*
+(  TAX INVOICE / SAP VENDOR INVOICE \(MIRO / VBRK\)) Tj T*
+(==========================================================================) Tj T*
+(Document Number : INV-2026-900005        Document Date : 2026-09-06) Tj T*
+(Reference Order : 4500100005             Due Date      : 2026-10-06) Tj T*
+(SAP Client      : 100                    Company Code  : 1000 \(SG01\)) Tj T*
+(Currency        : SGD                    Page          : 2 of 3) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(SUPPLIER / VENDOR \(LIFNR: 0000100881\):) Tj T*
+(  Precision Microelectronics Asia Ltd) Tj T*
+(  Singapore, SG) Tj T*
+() Tj T*
+(SOLD-TO / BILL-TO CUSTOMER \(KUNNR: 0000204519\):) Tj T*
+(  Marina Bay Retail Operations Pte Ltd) Tj T*
+(  10 Bayfront Ave, Singapore 018956) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(POSNR  MATERIAL SKU     DESCRIPTION                        QTY   UNIT    NET \(SGD\)) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(0070   MAT-550192-SG    Stainless Steel Pneumatic Valve    4.0  EA        368.00) Tj T*
+(0080   MAT-109432-SG    Industrial PLC Controller Module   5.0  EA      6,250.00) Tj T*
+(0090   MAT-992011-SG    Thermal Management Cooling Fan U   6.0  EA        840.00) Tj T*
+(0100   MAT-550192-SG    Stainless Steel Pneumatic Valve    7.0  EA        644.00) Tj T*
+(0110   MAT-109432-SG    Industrial PLC Controller Module   8.0  EA     10,000.00) Tj T*
+(0120   MAT-992011-SG    Thermal Management Cooling Fan U   9.0  EA      1,260.00) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(                running subtotal carried to next page...   SGD    34,278.00) Tj T*
+(==========================================================================) Tj T*
+(Continued on Page 3...) Tj T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2457 >>
+stream
+BT
+/F1 10 Tf
+40 790 Td
+14 TL
+(==========================================================================) Tj T*
+(  TAX INVOICE / SAP VENDOR INVOICE \(MIRO / VBRK\)) Tj T*
+(==========================================================================) Tj T*
+(Document Number : INV-2026-900005        Document Date : 2026-09-06) Tj T*
+(Reference Order : 4500100005             Due Date      : 2026-10-06) Tj T*
+(SAP Client      : 100                    Company Code  : 1000 \(SG01\)) Tj T*
+(Currency        : SGD                    Page          : 3 of 3) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(SUPPLIER / VENDOR \(LIFNR: 0000100881\):) Tj T*
+(  Precision Microelectronics Asia Ltd) Tj T*
+(  Singapore, SG) Tj T*
+() Tj T*
+(SOLD-TO / BILL-TO CUSTOMER \(KUNNR: 0000204519\):) Tj T*
+(  Marina Bay Retail Operations Pte Ltd) Tj T*
+(  10 Bayfront Ave, Singapore 018956) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(POSNR  MATERIAL SKU     DESCRIPTION                        QTY   UNIT    NET \(SGD\)) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(0130   MAT-550192-SG    Stainless Steel Pneumatic Valve    1.0  EA         92.00) Tj T*
+(0140   MAT-109432-SG    Industrial PLC Controller Module   2.0  EA      2,500.00) Tj T*
+(0150   MAT-992011-SG    Thermal Management Cooling Fan U   3.0  EA        420.00) Tj T*
+(0160   MAT-550192-SG    Stainless Steel Pneumatic Valve    4.0  EA        368.00) Tj T*
+(0170   MAT-109432-SG    Industrial PLC Controller Module   5.0  EA      6,250.00) Tj T*
+(0180   MAT-992011-SG    Thermal Management Cooling Fan U   6.0  EA        840.00) Tj T*
+(--------------------------------------------------------------------------) Tj T*
+(                           SUBTOTAL \(NET AMOUNT / NETWR\) : SGD    44,748.00) Tj T*
+(                       SINGAPORE GST / TAX \(9% MWSKZ=G9\) : SGD     4,027.32) Tj T*
+(==========================================================================) Tj T*
+(                          TOTAL AMOUNT DUE \(GROSS TOTAL\) : SGD    48,775.32) Tj T*
+(==========================================================================) Tj T*
+() Tj T*
+(SAP Posting Metadata:) Tj T*
+(  Target SAP Tables : VBAK / VBAP / VBRK / VBRP \(Client MANDT=100\)) Tj T*
+(  Payment Terms     : Z030 \(Net 30 Days\)) Tj T*
+(  Authorized Signature: [ Digitally Signed - SAP EDI Gateway ]) Tj T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000201 00000 n 
+0000002246 00000 n 
+0000002372 00000 n 
+0000004417 00000 n 
+0000004543 00000 n 
+0000007052 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+7178
+%%EOF
